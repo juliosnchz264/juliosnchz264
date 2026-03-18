@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[https://github.com/juliosnchz264/juliosnchz264/blob/main/github-header-banner%20(1).png?raw=true](https://github.com/juliosnchz264/juliosnchz264/blob/main/banner.png?raw=true)" alt="Banner de mi perfil" width="100%">
+<img src="https://github.com/juliosnchz264/juliosnchz264/blob/main/banner.png?raw=true" alt="Banner de mi perfil" width="100%">
 </div>
 
 # Hi there, I'm Julio! 
