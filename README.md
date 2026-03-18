@@ -1,14 +1,14 @@
-# Hi there, I'm Julio! 👋
+# Hi there, I'm Julio! 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Julio%20Sanchez%20Aniceto-blue?style=social&logo=Linkedin&logoColor=0077B5)](https://www.linkedin.com/in/julio-sánchez-aniceto-453738276/) [![Gmail Badge](https://img.shields.io/badge/-julio264edu-c14438?style=social&logo=Gmail&logoColor=red)](mailto:julio264edu@gmail.com) [![Github followers](https://img.shields.io/github/followers/juliosnchz264?label=follow&style=social)](https://github.com/juliosnchz264)
 
-### 🌴 About Me
+### About Me
 
 * I am a Full Stack Developer from [Mallorca, Spain](https://www.youtube.com/watch?v=7boYP13LwDs) 🇪🇸
 
 ---
 
-### 🛠️ Ecosystem & Tech Stack
+### Ecosystem & Tech Stack
 
 | Focus | Technologies |
 | :--- | :--- |
@@ -17,7 +17,7 @@
 | **Data & Systems** | **SQL** (MySQL) · **NoSQL** (MongoDB) · **UML** |
 | **Infrastructure** | **Docker** · **Linux** · **Git** (GitHub/GitLab) |
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=juliosnchz264&theme=dracula)](https://git.io/streak-stats)
 
