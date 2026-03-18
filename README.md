@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://github.com/juliosnchz264/juliosnchz264/blob/main/github-header-banner%20(1).png?raw=true" alt="Banner de mi perfil" width="100%">
+</div>
+
 # Hi there, I'm Julio! 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Julio%20Sanchez%20Aniceto-blue?style=social&logo=Linkedin&logoColor=0077B5)](https://www.linkedin.com/in/julio-sánchez-aniceto-453738276/) [![Gmail Badge](https://img.shields.io/badge/-julio264edu-c14438?style=social&logo=Gmail&logoColor=red)](mailto:julio264edu@gmail.com) [![Github followers](https://img.shields.io/github/followers/juliosnchz264?label=follow&style=social)](https://github.com/juliosnchz264)
